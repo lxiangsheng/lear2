@@ -4,3 +4,4 @@ Creating a new branch is quick and simple.
 k and simple.
 simple.
 lixiangsheng
+Git tracks changes.
